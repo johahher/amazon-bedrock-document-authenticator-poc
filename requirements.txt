@@ -1,0 +1,7 @@
+streamlit
+boto3
+Pillow
+PyPDF2
+PyMuPDF
+pdf2image
+python-dotenv
