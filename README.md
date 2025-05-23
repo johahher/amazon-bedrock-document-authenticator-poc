@@ -10,7 +10,7 @@ The goal of this repository is to demonstrate how to leverage Amazon Bedrock's C
 
 The architecture & flow of the POC is as follows:
 
-<img src="https://github.com/johahher/amazon-bedrock-document-authentication-poc/blob/main/architecture.png">
+<img src="https://github.com/johahher/amazon-bedrock-document-authenticator-poc/blob/main/images/architecture.png">
 
 1. (a)User accesses the Streamlit web application through their browser. (b) User selects document type and uploads a document (ID, Bank Statement, Utility Bill, Pay Stub, or Employment Verification Letter) through the Streamlit interface.
 
